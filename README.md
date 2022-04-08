@@ -41,6 +41,20 @@ Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan
 Peluang terdapat 4 pasien yang sembuh.<br>
 <br>
 **Penyelesaian:**<br>
+Percobaan Binomial
+- banyak percobaan: n = 20
+- banyak sukses: x = 3
+- peluang sukses: p = 0.2
+
+Peluang Binomial
+```
+dbinom(k, n, prob)
+```
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/bb5cbd71e2bfe113707342be64e8b77b7165c1fe/Screenshot%20Modul%201/2a.png"/>
+Jadi, peluang terdapat pasien sembuh dalam kasus tersebut adalah 0.218199.<br>
+
+### 2b
+Gambarkan grafik histogram berdasarkan kasus tersebut.
 
 
 
