@@ -19,6 +19,12 @@ sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaks
 **Jawab:**
 ```
 dgeom(x-1, p)
-dgeom(3, 0.2)
 ```
 Sehingga didapatkan hasil 0,1024.
+
+### 1b
+mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribusi
+geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )
+<br>
+**Penyelesaian:**
+
