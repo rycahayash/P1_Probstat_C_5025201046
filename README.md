@@ -20,6 +20,7 @@ sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaks
 ```
 dgeom(x-1, p)
 ```
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/40dfda6b656262be3ecd5614b5e1df4db8a63e96/Screenshot%20Modul%201/1a.png"/><br>
 Sehingga didapatkan hasil 0,1024.
 
 ### 1b
