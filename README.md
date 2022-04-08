@@ -26,6 +26,21 @@ Sehingga didapatkan hasil 0,1024.
 ### 1b
 mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribusi
 geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )
-<br>
+<br><br>
 **Penyelesaian:**
+
+<br><br>
+### 1c
+### 1d
+### 1e
+
+## NOMOR 2
+Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
+
+### 2a
+Peluang terdapat 4 pasien yang sembuh.<br>
+<br>
+**Penyelesaian:**<br>
+
+
 
