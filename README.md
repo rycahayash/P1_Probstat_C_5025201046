@@ -136,5 +136,80 @@ Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.<br><br>
 <img src=""/>
 
 ## NOMOR 4
+Diketahui nilai x = 2 dan v = 10. Tentukan:
 
+### 4a
+Fungsi Probabilitas dari Distribusi Chi-Square.<br><br>
 
+**Penyelesaian:**<br>
+<img src=""/>
+
+### 4b
+Histogram dari Distribusi Chi-Square dengan 100 data random.<br><br>
+
+**Penyelesaian:**<br>
+<img src=""/>
+
+### 4c
+Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square.<br><br>
+
+**Penyelesaian:**<br>
+<img src=""/>
+
+## NOMOR 5
+Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
+
+### 5a
+Fungsi Probabilitas dari Distribusi Exponensial<br><br>
+
+**Penyelesaian:**<br>
+<img src=""/>
+
+### 5b
+Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random<br><br>
+
+**Penyelesaian:**<br>
+<img src=""/>
+
+### 5c
+Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
+Petunjuk:
+● Gunakan set.seed(1)
+● Gunakan fungsi bawaan R<br>
+
+**Penyelesaian:**<br>
+<img src=""/>
+
+## NOMOR 6
+Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
+
+### 6a
+Fungsi Probabilitas dari Distribusi Normal P(X1 ≤ x ≤ X2), hitung Z-Score Nya dan plot
+data generate randomnya dalam bentuk grafik. Petunjuk(gunakan fungsi plot()).
+Keterangan :
+- X1 = Dibawah rata-rata
+- X2 = Diatas rata-rata
+Contoh data :
+```
+11
+1,2,4,2,6,3,10,11,5,3,6,8
+rata-rata = 5.083333
+X1 = 5
+X2 = 6
+```
+<br>
+
+**Penyelesaian:**<br>
+<img src=""/>
+
+### 6b
+Generate Histogram dari Distribusi Normal dengan breaks 50 dan format penamaan:
+NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
+Contoh :
+<code>312312312_Rola_Probstat_A_DNhistogram</code>
+
+### 6c
+Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.<br><br>
+
+**Penyelesaian:**<br>
+<img src=""/>
