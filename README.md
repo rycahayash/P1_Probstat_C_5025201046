@@ -17,10 +17,8 @@ sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaks
 **Ditanya:** P(X = 3)
 <br>
 **Jawab:**
-```
-dgeom(x = n, prob = p)
-```
-<img src=""/><br>
+
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1a.png"/><br>
 Sehingga didapatkan hasil 0.1024.
 
 ### 1b
@@ -28,13 +26,10 @@ mean Distribusi Geometrik dengan 10000 data random , prob = 0,20 dimana distribu
 geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )
 <br><br>
 **Penyelesaian:**
-```
-mean(rgeom(n = 10000, prob = p) == 3)
-```
-<img src=""/><br>
-Sehingga didapatkan hasil 0.1042.
 
-<br><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1b.png"/><br>
+Sehingga didapatkan hasil 0.1072.
+
 ### 1c
 Bandingkan Hasil poin a dan b , apa kesimpulan yang bisa didapatkan?<br><br>
 
@@ -45,38 +40,15 @@ Keduanya menunjukkan hasil yang berbeda dengan selisih 0.0018. Hasil pada poin a
 ### 1d
 Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama.<br><br>
 **Penyelesaian:**<br>
-```
-library(dplyr)
-library(ggplot2)
 
-data.frame(x = 0:10, prob = dgeom(x = 0:10, prob = p)) %>%
-  mutate(Failures = ifelse(x == n, n, "other")) %>%
-ggplot(aes(x = factor(x), y = prob, fill = Failures)) +
-  geom_col() +
-  geom_text(
-    aes(label = round(prob,2), y = prob + 0.01),
-    position = position_dodge(0.9),
-    size = 3,
-    vjust = 0
-  ) +
-  labs(title = "Probability of X = 3 Failures Prior to First Success",
-       subtitle = "Geometric(.2)",
-       x = "Failures prior to first success (x)",
-       y = "Probability")
-```
 Histogram Distribusi Geometrik, Peluang X = 3 gagal Sebelum Sukses Pertama<br>
-<img src=""/>
-
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1d.png"/>
 
 ### 1e
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.<br><br>
 **Penyelesaian:**<br>
-```
-mean(rgeom(n = 10000, prob = p) <= 3)
-var(rgeom(n = 10000, prob = p))
 
-```
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1e.png"/>
 
 ## NOMOR 2
 Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
@@ -87,25 +59,23 @@ Peluang terdapat 4 pasien yang sembuh.<br>
 **Penyelesaian:**<br>
 Percobaan Binomial
 - banyak percobaan: n = 20
-- banyak sukses: x = 3
+- banyak sukses: x = 4
 - peluang sukses: p = 0.2
 
-Peluang Binomial
-```
-dbinom(k, n, prob)
-```
-<img src=""/>
-Jadi, peluang terdapat pasien sembuh dalam kasus tersebut adalah 0.218199.<br>
+Peluang Binomial<br>
+
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/2a.png"/>
+Jadi, peluang terdapat pasien sembuh dalam kasus tersebut adalah 0.2181994.<br>
 
 ### 2b
 Gambarkan grafik histogram berdasarkan kasus tersebut.<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/2b.png"/>
 
 ### 2c
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Binomial.<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/2c.png"/>
 
 ## NOMOR 3
 Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
@@ -114,14 +84,14 @@ Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan r
 Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3a.png"/>
 
 ### 3b
 simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama setahun (n = 365)<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/><br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3b.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3b_2.png"/>
 
 ### 3c
 dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan<br><br>
@@ -133,7 +103,7 @@ Hasil pada poin a dan b berbeda. Poin a memiliki hasil yang tetap, sedangkan poi
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3d.png"/>
 
 ## NOMOR 4
 Diketahui nilai x = 2 dan v = 10. Tentukan:
