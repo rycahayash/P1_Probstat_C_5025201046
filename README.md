@@ -18,7 +18,7 @@ sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaks
 <br>
 **Jawab:**
 
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1a.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/1a.png"/><br>
 Sehingga didapatkan hasil 0.1024.
 
 ### 1b
@@ -27,7 +27,7 @@ geometrik acak tersebut X = 3 ( distribusi geometrik acak () == 3 )
 <br><br>
 **Penyelesaian:**
 
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1b.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/1b.png"/><br>
 Sehingga didapatkan hasil 0.1072.
 
 ### 1c
@@ -42,13 +42,13 @@ Histogram Distribusi Geometrik , Peluang X = 3 gagal Sebelum Sukses Pertama.<br>
 **Penyelesaian:**<br>
 
 Histogram Distribusi Geometrik, Peluang X = 3 gagal Sebelum Sukses Pertama<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1d.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/1d.png"/>
 
 ### 1e
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.<br><br>
 **Penyelesaian:**<br>
 
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/1e.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/1e.png"/>
 
 ## NOMOR 2
 Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
@@ -64,18 +64,18 @@ Percobaan Binomial
 
 Peluang Binomial<br>
 
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/2a.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/2a.png"/>
 Jadi, peluang terdapat pasien sembuh dalam kasus tersebut adalah 0.2181994.<br>
 
 ### 2b
 Gambarkan grafik histogram berdasarkan kasus tersebut.<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/2b.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/2b.png"/>
 
 ### 2c
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Binomial.<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/2c.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/2c.png"/>
 
 ## NOMOR 3
 Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
@@ -84,14 +84,14 @@ Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan r
 Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3a.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/3a.png"/>
 
 ### 3b
 simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini selama setahun (n = 365)<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3b.png"/><br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3b_2.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/3b.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/3b_2.png"/>
 
 ### 3c
 dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan<br><br>
@@ -103,7 +103,7 @@ Hasil pada poin a dan b berbeda. Poin a memiliki hasil yang tetap, sedangkan poi
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/a428dee59c7be2f4ec49ce940312a022c0705822/Screenshot%20Modul%201/3d.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/3d.png"/>
 
 ## NOMOR 4
 Diketahui nilai x = 2 dan v = 10. Tentukan:
@@ -112,21 +112,21 @@ Diketahui nilai x = 2 dan v = 10. Tentukan:
 Fungsi Probabilitas dari Distribusi Chi-Square.<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4a.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/4a.png"/>
 
 ### 4b
 Histogram dari Distribusi Chi-Square dengan 100 data random.<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4b_1.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/4b_1.png"/><br><br>
 Histogram dari Distribusi Chi-Square dengan 100 data random.<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4b_2.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/4b_2.png"/>
 
 ### 4c
 Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square.<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4c.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/4c.png"/>
 
 ## NOMOR 5
 Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
@@ -135,13 +135,29 @@ Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Te
 Fungsi Probabilitas dari Distribusi Exponensial<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5a.png"/>
 
 ### 5b
 Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+
+- Distribusi Eksponensial untuk 10 bilangan Random.
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10_code.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10_hist.png"/><br><br>
+
+- Distribusi Eksponensial untuk 100 bilangan Random.
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_100_code.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_100_hist.png"/><br><br>
+
+- Distribusi Eksponensial untuk 1000 bilangan Random.
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_1000_code.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_1000_hist.png"/><br><br>
+
+- Distribusi Eksponensial untuk 10000 bilangan Random.
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10000_code.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10000_hist.png"/><br><br>
+
 
 ### 5c
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
@@ -150,7 +166,7 @@ Petunjuk:
 ● Gunakan fungsi bawaan R<br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5c.png"/>
 
 ## NOMOR 6
 Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
@@ -172,16 +188,21 @@ X2 = 6
 <br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/6a.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/6a_hist.png"/>
 
 ### 6b
 Generate Histogram dari Distribusi Normal dengan breaks 50 dan format penamaan:
-NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
+<code>NRP_Nama_Probstat_{Nama Kelas}_DNhistogram</code>.<br>
 Contoh :
 <code>312312312_Rola_Probstat_A_DNhistogram</code>
+<br><br>
+**Penyelesaian:**<br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/6b.png"/><br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/6b_hist.png"/>
 
 ### 6c
 Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/6c.png"/>
