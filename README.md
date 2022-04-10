@@ -103,7 +103,7 @@ Hasil pada poin a dan b berbeda. Poin a memiliki hasil yang tetap, sedangkan poi
 Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.<br><br>
 
 **Penyelesaian:**<br>
-<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/3d.png"/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/34b8dbcf5ddb7ab076a494f2ec9b723857e04511/P1_Screenshot/3d.png"/>
 
 ## NOMOR 4
 Diketahui nilai x = 2 dan v = 10. Tentukan:
