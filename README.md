@@ -112,19 +112,21 @@ Diketahui nilai x = 2 dan v = 10. Tentukan:
 Fungsi Probabilitas dari Distribusi Chi-Square.<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4a.png"/>
 
 ### 4b
 Histogram dari Distribusi Chi-Square dengan 100 data random.<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4b_1.png"/><br>
+Histogram dari Distribusi Chi-Square dengan 100 data random.<br>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4b_2.png"/>
 
 ### 4c
 Nilai Rataan (μ) dan Varian (σ²) dari DistribusiChi-Square.<br><br>
 
 **Penyelesaian:**<br>
-<img src=""/>
+<img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/57b21cef835d1b1c1c98de6333001f24efb6366b/Screenshot%20Modul%201/4c.png"/>
 
 ## NOMOR 5
 Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
