@@ -142,19 +142,19 @@ Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan ran
 
 **Penyelesaian:**<br>
 
-- Distribusi Eksponensial untuk 10 bilangan Random.
+- Distribusi Eksponensial untuk 10 bilangan Random.<br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10_code.png"/><br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10_hist.png"/><br><br>
 
-- Distribusi Eksponensial untuk 100 bilangan Random.
+- Distribusi Eksponensial untuk 100 bilangan Random.<br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_100_code.png"/><br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_100_hist.png"/><br><br>
 
-- Distribusi Eksponensial untuk 1000 bilangan Random.
+- Distribusi Eksponensial untuk 1000 bilangan Random.<br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_1000_code.png"/><br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_1000_hist.png"/><br><br>
 
-- Distribusi Eksponensial untuk 10000 bilangan Random.
+- Distribusi Eksponensial untuk 10000 bilangan Random.<br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10000_code.png"/><br>
 <img src="https://github.com/rycahayash/P1_Probstat_C_5025201046/blob/52c856899f8a6d4f3248f40c133d816104c077fa/P1_Screenshot/5b_10000_hist.png"/><br><br>
 
